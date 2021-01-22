@@ -3,19 +3,17 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-top: 3rem;
   color: #5a5a5a;
 }
-
-
 
 /* header img */
 .bg-blue{
 	background-color: #0f3f7f;
-	 background: #0f3f7f; /* Цвет фона */
+	background: #0f3f7f; /* Цвет фона */
     box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
     padding: 10px;
 	filter: progid:DXImageTransform.Microsoft.shadow(direction=120, color=#0f3f7f, strength=10);
+	opacity: 0.9;
 }
 .logo{
       width: auto;
