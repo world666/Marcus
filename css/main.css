@@ -18,10 +18,8 @@ body {
 	filter: progid:DXImageTransform.Microsoft.shadow(direction=120, color=#0f3f7f, strength=10);
 }
 .logo{
-	 display: inline-block;
-      width: 100%;
-	 
-
+      width: auto;
+	  height: auto;
 	}
 .btn-blue{
 	background-color: #0f3f7f;
