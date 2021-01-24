@@ -8,24 +8,41 @@ body {
 
 /* header img */
 .bg-blue{
-	background-color: #0f3f7f;
 	background: #0f3f7f; /* Цвет фона */
     box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
-    padding: 10px;
-	filter: progid:DXImageTransform.Microsoft.shadow(direction=120, color=#0f3f7f, strength=10);
+	filter: progid:DXImageTransform.Microsoft.shadow(direction=120, color=#022b65, strength=10);
 	opacity: 0.9;
+	background-color: rgba(2, 43, 101, 0.99);
+	-webkit-backdrop-filter: saturate(180%) blur(20px);
+	backdrop-filter: saturate(180%) blur(20px);
 }
 .logo{
-      width: auto;
-	  height: auto;
+    width: auto;
+	height: auto;
 	}
+.button-one{
+	width: auto;
+	height: auto;
+}
+.icon-index{
+	width: auto;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	vertical-align: middle;
+}
 .btn-blue{
 	background-color: #0f3f7f;
-	 border-color: #0f3f7f;
+	border-color: #0f3f7f;
 }
 .btn-blue:hover {
-  background-color: #7eb7fe; /* Green */
-  border-color: #7eb7fe;
+	background-color: #7eb7fe; /* Green */
+	border-color: #7eb7fe;
+}
+.text-justify{
+	text-align: justify;
+	text-justify: inter-word;
 }
 
 /* RESPONSIVE CSS
