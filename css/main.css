@@ -15,10 +15,7 @@ body {
 	background-color: #0f3f7f;
 	color: #FFFFFF;
 }
-.row-cols-md-3{
-	width: 100rem;
 
-}
 /* header img */
 .bg-blue{
 	background: #0f3f7f; /* Цвет фона */
@@ -80,7 +77,11 @@ ul.b{
 }
 .project{
 	text-align: left;
-   margin-left:1.0em;
+
+}
+.card-header{
+	height: 4em;
+	display: inline-block;
 }
 /* unvisited link */
 .text-menu{
