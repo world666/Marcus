@@ -9,6 +9,7 @@ html{
 body {
 	color: #5a5a5a;
 	height: 100%;
+	font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
 .card-header{
